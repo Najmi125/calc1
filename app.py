@@ -1,5 +1,5 @@
 
-!pip install streamlit==1.28.1
+
 import streamlit as st
 
 def calculate(operation, num1, num2):
